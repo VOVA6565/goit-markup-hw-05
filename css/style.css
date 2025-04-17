@@ -734,7 +734,7 @@ img {
 }
 
 .privacy-link {
-  color: var(--color-link, #4d5ae5);
+  color: #4d5ae5;
 }
 
 .submit-btn {
