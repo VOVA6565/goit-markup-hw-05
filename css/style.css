@@ -631,7 +631,7 @@ img {
   line-height: 1.5;
   text-align: center;
   letter-spacing: 0.02em;
-  color: var(--color-title, #2e2f42);
+  color: #2e2f42;
   margin-bottom: 16px;
 }
 
@@ -643,7 +643,7 @@ img {
   font-size: 12px;
   line-height: 1.17;
   letter-spacing: 0.04em;
-  color: var(--color-label, #8e8f99);
+  color: #8e8f99;
   display: block;
   margin-bottom: 4px;
 }
