@@ -566,6 +566,11 @@ img {
   border-radius: 4px;
 }
 
+.form-button:hover,
+.form-button:focus {
+  background-color: #404bbf;
+}
+
 .form-button-icon {
   margin-left: 16px;
 }
@@ -742,6 +747,7 @@ img {
 
 .privacy-link {
   color: #4d5ae5;
+  text-decoration: underline;
 }
 
 .submit-btn {
@@ -759,4 +765,10 @@ img {
   border: none;
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
   margin: 0 auto;
+  border-radius: 4px;
+}
+
+.submit-btn:hover,
+.submit-btn:focus {
+  background-color: #404bbf;
 }
